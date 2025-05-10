@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sutharpavan9153@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16ik3-LImVfeFCjGGpYoiA3w9xfvVBgkM/view?usp=sharing](https://drive.google.com/file/d/16ik3-LImVfeFCjGGpYoiA3w9xfvVBgkM/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1nZwNQKIjjQ9fwadoGjOWp6QV4e54CL6g/view?usp=sharing
 
 - ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs!**
 
